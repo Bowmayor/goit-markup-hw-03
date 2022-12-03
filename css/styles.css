@@ -339,6 +339,7 @@ img {
 
   color: inherit;
 
+  margin-top: 0px;
   margin-bottom: 10px;
 }
 
@@ -467,9 +468,6 @@ background-color: var(--color-highlight);
  margin-bottom: 0px; 
  } 
 
-.projects.item > img {
-  margin-bottom: 20px;
-}
 
 .project-title {
   font-style: normal;
